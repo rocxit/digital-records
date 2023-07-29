@@ -5,8 +5,6 @@ import Reports from './pages/Reports';
 import Products from './pages/Products.jsx';
 import UserForm from './form/UserForm';
 
-import './App.css'
-
 
 function App() {
   return (
